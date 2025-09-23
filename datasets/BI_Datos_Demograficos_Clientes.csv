@@ -1,0 +1,41 @@
+ID Cliente,Nombre,Apellido,Edad,Género,Ingresos Anuales,Nivel de Educación
+1,Sarita,Pereira,40,Femenino,60000,Postgrado
+2,Hortensia,Carreño,55,Femenino,30000,Postgrado
+3,Benita,Moll,48,Femenino,30000,Universitario
+4,Octavia,Pla,53,Femenino,75000,Terciario
+5,Ángeles,Elorza,37,Femenino,25000,Universitario
+6,Pepita,Camps,35,Femenino,40000,Universitario
+7,Francisco Javier,Almazán,54,Masculino,30000,Terciario
+8,Carmen,Miguel,34,Femenino,75000,Terciario
+9,Inocencio,Donoso,65,Masculino,25000,Postgrado
+10,Irma,Solana,46,Femenino,60000,Postgrado
+11,Agapito,Murcia,46,Masculino,30000,Postgrado
+12,Aureliano,Escobar,44,Masculino,75000,Secundario
+13,Sofía,Recio,56,Femenino,50000,Secundario
+14,Judith,Sandoval,42,Femenino,50000,Postgrado
+15,Rodrigo,Escrivá,54,Masculino,75000,Terciario
+16,Casemiro,Palmer,51,Masculino,40000,Postgrado
+17,Hugo,Company,51,Masculino,50000,Universitario
+18,Aristides,Iborra,62,Masculino,50000,Terciario
+19,Cristóbal,Gallardo,49,Masculino,60000,Secundario
+20,Armando,Balaguer,45,Masculino,60000,Secundario
+21,Andrés Felipe,Solano,25,Masculino,50000,Terciario
+22,Ildefonso,Rios,49,Masculino,25000,Universitario
+23,Jennifer,Gómez,44,Femenino,30000,Postgrado
+24,Ligia,Manuel,40,Femenino,50000,Universitario
+25,Malena,Olivera,46,Femenino,25000,Postgrado
+26,Pánfilo,Cruz,21,Masculino,60000,Secundario
+27,Juan Pablo,Olivares,42,Masculino,75000,Secundario
+28,Abel,Ros,61,Masculino,25000,Terciario
+29,Miguel Ángel,Pavón,32,Masculino,60000,Terciario
+30,Valero,Barrio,35,Masculino,50000,Secundario
+31,Tristán,Sanjuan,56,Masculino,50000,Universitario
+32,Cayetano,Moll,43,Masculino,60000,Secundario
+33,Calixta,Bou,30,Femenino,25000,Secundario
+34,Domingo,Moreno,39,Masculino,75000,Postgrado
+35,Rogelio,Baeza,45,Masculino,30000,Secundario
+36,Bernardino,Sancho,57,Masculino,75000,Terciario
+37,Adalberto,Revilla,26,Masculino,40000,Secundario
+38,Ángel,Borja,56,Masculino,40000,Postgrado
+39,Serafina,Otero,62,Femenino,25000,Universitario
+40,Lidia,Rosselló,20,Femenino,50000,Secundario
